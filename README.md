@@ -1,2 +1,3 @@
-CSS Loading animation
+CSS Loading animation.
+
 
